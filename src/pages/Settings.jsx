@@ -1,4 +1,4 @@
-import UpdateSettingsForm from "../features/settings/updateSettingsForm";
+import UpdateSettingsForm from "../features/settings/UpdateSettingsForm"; //../features/settings/updateSettingsForm
 
 import Heading from "../ui/Heading";
 import Row from "../ui/Row";
